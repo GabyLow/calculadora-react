@@ -23,11 +23,12 @@ function App() {
 
   
   return (
+
     <div className='App'>
-      <div className='titulo-contenedor'>Calculadora</div>
-      <div className='contenedor-calculadora'>
-        <Pantalla input={input}/>
-        <div className='fila'>
+        <div className='titulo-contenedor'>Calculadora</div>
+        <div className='contenedor-calculadora'>
+         <Pantalla input={input}/>
+         <div className='fila'>
           <Boton manejarClic={agregarInput}>1</Boton>
           <Boton manejarClic={agregarInput}>2</Boton>
           <Boton manejarClic={agregarInput}>3</Boton>
