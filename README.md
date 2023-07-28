@@ -20,5 +20,6 @@ Esto incluye validar la entrada del usuario y mostrar mensajes de error adecuado
 
 Resultado: El resultado final fue una calculadora sencilla y funcional desarrollada con React JS, que proporciona a los usuarios una forma rápida y conveniente de realizar cálculos matemáticos básicos. 
 
-![Calculadoera react](https://github.com/GabyLow/calculadora-react/assets/127358083/ca3e92ca-b67e-4af4-ae43-cf3cae165e27)
 
+
+![calculadorapic](https://github.com/GabyLow/calculadora-react/assets/127358083/50b01a27-1664-491f-9eff-3409e74a2bd1)
